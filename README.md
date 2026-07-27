@@ -16,3 +16,110 @@
 [![](https://visitcount.itsvg.in/api?id=shi13311&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# Hi 👋, I'm Ayush Singh Chauhan
+
+<h3 align="center">💻 B.Tech CSE (Data Science) | Java Developer | Data Analytics Enthusiast</h3>
+
+<p align="center">
+  Passionate about solving real-world problems using <b>Java</b>, <b>Python</b>, and <b>Data Science</b>.
+  <br>
+  Currently improving my DSA skills and building practical projects.
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech in Computer Science & Engineering (Data Science)
+
+💡 Interested in Data Science, Data Analytics & Java Development
+
+🌱 Currently Learning
+- Advanced Java
+- Data Structures & Algorithms
+- Machine Learning
+- SQL
+
+🎯 Goal
+- Become a Data Scientist / Data Analyst
+- Build impactful real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Web
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+# 📌 Featured Projects
+
+### 📄 Resume & Job Description Matching System
+AI-powered application that compares resumes with job descriptions and provides similarity scores.
+
+### 👁️ Eye Blink Detection System
+Computer Vision project for detecting eye blinks and fatigue using Python & OpenCV.
+
+### 📊 COVID-19 Data Analysis
+Performed exploratory data analysis using Pandas and visualized insights.
+
+### 🚚 Transport Business Website
+Modern responsive business website built using HTML, CSS & JavaScript.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+📧 Email: YOUR_EMAIL
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
